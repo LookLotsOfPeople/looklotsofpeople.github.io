@@ -1,0 +1,25 @@
+/*Use a CSS selector to apply style(s) to at least one HTML tag.*/
+h1, p {
+    color: blueviolet;
+}
+
+/*Create at least one class, apply it to at least two elements, and style it.*/
+.red-text {
+    color: red;
+}
+
+/*Create at least one id, apply it to an element, and style it.*/
+#secret-text {
+    color: white;
+}
+
+/*Use a CSS selector to change the color of <a> when you hover the cursor over it.*/
+a:hover {
+    color: lime;
+}
+
+/*Change at least two box model properties of any tag, class, or id.*/
+.fancy-div {
+    border: 4px solid yellow;
+    width: fit-content;
+}
